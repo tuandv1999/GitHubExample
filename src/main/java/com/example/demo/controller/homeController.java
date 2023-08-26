@@ -33,4 +33,8 @@ public class homeController {
     public String homepage1(){
         return "";
     }
+     @GetMapping("/homepage2)
+    public String homepage2(){
+        return "";
+    }
 }
